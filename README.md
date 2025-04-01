@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
+ [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
 
 ###.gitignore
 El  .gitignore sirve para excluir ciertos archivos y carpetas del control de versiones de Git. Esto es útil para:
@@ -23,3 +23,11 @@ Especifica patrones: Agrega las rutas o patrones de los archivos/carpetas que qu
 -   Ignorar archivos sensibles
 .env
 config/secrets.yml
+
+### Punteros ###
+- **¿A que se debe?**
+A que el puntero guarda la direccion de memoria de la variable a la que apunta.
+- **¿Que obtiene en el punto 4?**
+El punto 4 nos da la direccion de memoria de la variable puntero.
+- **¿Es igual a las anteriores?**
+No es igual porque la direccion de memoria de la variable referenciada y la del puntero son distintas.
